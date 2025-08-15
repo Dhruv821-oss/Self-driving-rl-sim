@@ -60,7 +60,7 @@ If you use this project in your research, please cite:
   title={DQN Self-Driving Car: 2D Reinforcement Learning Simulator},
   author={Your Name},
   year={2025},
-  url={https://github.com/yourusername/dqn-self-driving-car}
+  url={https://github.com/Dhruv821-oss/Self-driving-rl-sim}
 }
 
 
