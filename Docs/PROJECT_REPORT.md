@@ -40,6 +40,15 @@ Autonomous driving is a challenging problem involving perception, decision-makin
 ## Results
 - Learning curve shows improvement after ~300 episodes.
 - Best performance: agent completes lap with 85% fewer collisions than random policy.
+- <img width="998" height="784" alt="Screenshot 2025-08-16 022343" src="https://github.com/user-attachments/assets/81b54c8f-02d8-463c-a11b-c338e495ef1a" />
+- <img width="997" height="790" alt="Screenshot 2025-08-16 022332" src="https://github.com/user-attachments/assets/8e816d2f-f5de-43ca-9e76-97412afe5503" />
+- <img width="993" height="786" alt="Screenshot 2025-08-16 022315" src="https://github.com/user-attachments/assets/4dd3faed-1477-45f3-b681-c950af4fc6a2" />
+- <img width="900" height="731" alt="Screenshot 2025-08-16 022302" src="https://github.com/user-attachments/assets/85746a37-20d2-424e-9848-00aa6ac42a05" />
+
+
+
+
+
 
 ## Discussion
 - DQN learns basic navigation but struggles with sharp turns.
