@@ -58,7 +58,7 @@ If you use this project in your research, please cite:
 
 @misc{dqn_self_driving_car,
   title={DQN Self-Driving Car: 2D Reinforcement Learning Simulator},
-  author={Your Name},
+  author={Dhruv Saxena},
   year={2025},
   url={https://github.com/Dhruv821-oss/Self-driving-rl-sim}
 }
